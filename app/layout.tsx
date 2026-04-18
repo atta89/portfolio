@@ -23,13 +23,13 @@ export const metadata: Metadata = {
     'Golang',
     'Jakarta',
   ],
-  authors: [{ name: 'Chandra Wijaya', url: 'https://chandrawijaya.dev' }],
+  authors: [{ name: 'Chandra Wijaya', url: 'https://chandrawijaya.vercel.app' }],
   openGraph: {
     title: 'Chandra Wijaya — Software Engineer',
     description:
       'Software Engineer with 4+ years of experience building scalable web applications with React.js, Next.js, TypeScript, and Golang.',
     type: 'website',
-    url: 'https://chandrawijaya.dev',
+    url: 'https://chandrawijaya.vercel.app',
     siteName: 'Chandra Wijaya Portfolio',
   },
   twitter: {

@@ -2,7 +2,7 @@
 
 Personal portfolio website for Chandra Wijaya, a Software Engineer specializing in React.js, Next.js, TypeScript, and Golang. Built with Next.js 14 App Router, Tailwind CSS, and Framer Motion.
 
-**Live site:** [chandrawijaya.dev](https://chandrawijaya.dev)
+**Live site:** [chandrawijaya.dev](https://chandrawijaya.vercel.app)
 
 ## Tech Stack
 
